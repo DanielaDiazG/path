@@ -1,0 +1,21 @@
+* { 
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: cursive;
+    font-size: 30px;
+    color: #7FC5FF;
+    background: url("./fondo.jpg") no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image { 
+    width: 300px;
+}
